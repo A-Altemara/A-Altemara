@@ -8,7 +8,4 @@
 
 💬 Ask me about my cats. They are fluffy and cute.
 
-📫 How to reach me: Linkedin www.linkedin.com/in/airiel-altemara
-
-
 
