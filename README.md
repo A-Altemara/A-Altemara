@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-🔭 I’m currently working on my family photo website.
+🔭 I’m currently in the design stages of a Migraine tacking app.
 
-🌱 I’m currently learning learning full stack web development.
+🌱 I’m currently learning learning C# development.
 
 👯 I’m looking to collaborate on a japanese language study game.
 
